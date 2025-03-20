@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-    <p align="center" justify-contet: center>Como estudante de Análise e Desenvolvimento de Sistemas e habilidades em HTML, CSS e JavaScript, Tenho um forte interesse em novas tecnologias e tendências emergentes, como Inteligência Artificial, Computação em Nuvem e Desenvolvimento de Aplicações Web. Destaco-me nas áreas de vendas, tecnologia e marketing, com experiência em Marketing Digital e vendas no setor imobiliário desde 2018.</p>
+    <p align="center" justify-contet: center>Estudante de Análise e Desenvolvimento de Sistemas, com foco em programação e desenvolvimento web. Dedico-me à exploração de novas tecnologias e à criação de soluções inovadoras e eficientes. Todo o conteúdo presente em meus repositórios, possuem caráter educativo e disciplinar, refletindo meu compromisso com a aprendizagem e compartilhamento de conhecimento técnico. </p>
 </div>
 <br>
 <h2 align="left">Tech Stack💻</h2>
